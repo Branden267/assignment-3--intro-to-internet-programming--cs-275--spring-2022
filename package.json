@@ -1,7 +1,29 @@
 {
   "name": "assignment-3--intro-to-internet-programming--cs-275--spring-2022",
   "version": "1.0.0",
-  "description": "",
+  "description": "* **Do not start this project until you have read these instructions carefully.**\r * **Read these instructions repeatedly until you understand, then begin your project. If something is not clear, ask.**",
   "main": "gulpfile.js",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branden267/assignment-3--intro-to-internet-programming--cs-275--spring-2022.git"
+  },
+  "author": "Branden Raheel",
+  "bugs": {
+    "url": "https://github.com/Branden267/assignment-3--intro-to-internet-programming--cs-275--spring-2022/issues"
+  },
+  "homepage": "https://github.com/Branden267/assignment-3--intro-to-internet-programming--cs-275--spring-2022#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-html": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
 }
